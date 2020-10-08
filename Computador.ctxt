@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Computador
+comment1.params=p\ p2\ t\ n\ i
+comment1.target=Computador(int,\ int,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getIdade()
+comment4.params=n
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=i
+comment5.target=void\ setIdade(int)
+numComments=6
