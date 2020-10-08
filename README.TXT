@@ -1,9 +1,4 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
 TITULO DO PROJETO:Jokenpo
 
 OBJETIVO DO PROJETO:O objetivo do desafio era treinar nosso aprendizado com Heranças em Java, porém, no meio dele eu decidi torna-lo "jogável" então desenvolvi o game para que pudesse executar.
@@ -18,3 +13,8 @@ INSTRUÇÕES PARA O USUÁRIO: Baixe o BlueJ
 https://www.bluej.org/download/release-notes.html
 ou
 Copie todo código da classe Teclado e cole em uma classe Teclado de sua IDE, para que possa utilizar a entrada de Dados solicitada pelo Teclado corretamente.
+------------------------------------------------------------------------
+
+Att;
+
+Wesley Jacques
